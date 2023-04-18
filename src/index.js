@@ -66,6 +66,8 @@ export const signOutUser = async () => {
   }
 };
 
+// Chartley was here!
+
 // Initialize firebase auth
 function initFirebaseAuth() {
   // Listen to auth state changes.
